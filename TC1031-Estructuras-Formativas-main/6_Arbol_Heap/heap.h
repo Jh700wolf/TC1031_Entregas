@@ -2,7 +2,7 @@
 #include <sstream>
 #include <cstring>
 #include <string>
-
+// Autor: Jose Pablo Gonzalez
 using namespace std;
 
 template <class T>
