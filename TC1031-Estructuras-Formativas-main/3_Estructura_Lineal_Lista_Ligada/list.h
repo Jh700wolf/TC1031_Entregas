@@ -1,3 +1,4 @@
+/*Autor: Jose Pablo Gonzalez Avila*/
 # ifndef LIST_H_
 # define LIST_H_
 
