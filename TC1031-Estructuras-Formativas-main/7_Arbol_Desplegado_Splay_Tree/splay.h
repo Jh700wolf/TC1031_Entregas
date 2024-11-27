@@ -1,6 +1,8 @@
 #ifndef SPLAY_H_
 #define SPLAY_H_
 
+//Autor: Jose Pablo Gonzalez
+
 #include <string>
 #include <cstring>
 #include <sstream>
